@@ -1,7 +1,0 @@
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/oop.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/edit_cache.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/rebuild_cache.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/list_install_components.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/install.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/install/local.dir
-/Users/meylishudayberdiyev/Desktop/pooproject/build/CMakeFiles/install/strip.dir
