@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -stdlib=libc++ CMakeFiles/oop.dir/src/main.cpp.o CMakeFiles/oop.dir/src/game.cpp.o CMakeFiles/oop.dir/src/item.cpp.o CMakeFiles/oop.dir/src/player.cpp.o CMakeFiles/oop.dir/src/world.cpp.o -o oop
